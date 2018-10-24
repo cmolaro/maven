@@ -1,0 +1,6 @@
+Introduction
+============
+
+
+
+This is the first of a series of articles about Db2 encryption concepts, how to work with it, and its impacts. 
