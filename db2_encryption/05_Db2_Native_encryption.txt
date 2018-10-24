@@ -1,0 +1,8 @@
+Db2 Native Encryption
+=====================
+
+
+Db2 "native" encryption is built-in into Db2.
+
+Your first encrypted database
+-----------------------------

@@ -4,3 +4,5 @@ Introduction
 Enforced on 25 May 2018, GDPR is among us.
 
 This is the first of a series of articles about Db2 encryption concepts, how to work with it, and its impacts. 
+
+Note: this first article refers to Db2 11.1 for LUW.
