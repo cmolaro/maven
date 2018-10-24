@@ -1,8 +1,50 @@
+What is the problem that we are trying to solve?
+================================================
+
+We are trying to protect the access to business data at the lowest cost.
+
+Challenges
+==========
+
+	- Information: what are the options and their impact?
+	- Performance
+	- Operational impacts
+	- Key management
+
+Honestly, I seldom encounter a database administrator promoting the usage of database encryption. Honestly, we already quite busy these days to self inflicted ourselves with just another challenge.
+
+And yes, database encrytion can be a challenge.
+
+However, it should be clearly understood that it is in our own interest that we should embrace the challenge.
+GDPR, as unpopular at it should appear between Information Technology professionals, is not a cause. It is a consequence.
+
+Security breachs are real. GDPR is another attempt to help IT professionals to focus pon the risks we are into these days. In my country, a car insurance is mandtory and compulsory and I would never dare to drive my car without being up to date with that.
+Thinks about GDPR as an enforcement of your own protection.
+
+
+Key management
+==============
+
+
 Db2 Native Encryption
 =====================
 
+Something that appeals me a lot from the Db2 native encrytion is that it is transparent for your applications. As in its name, **native** means integration with the Db2 engine, out of the box, ready to be used. Other techniques, like column level encryption, require some planning and implementation efforts.
 
-Db2 "native" encryption is built-in into Db2.
+As the Db2 native encryption is built-in into Db2. This is, perhaps, the first and easiest option to try.
+ 
+Db2 native encrytion is an **MISSING** implementation, meaning that **MISSING**.
+Other available options are based on **MISSING**.
+
+
 
 Your first encrypted database
 -----------------------------
+
+What are the advantages?
+=======================
+
+At a glance:
+
+	- Out of the box and integrated with Db2
+	- Simplified key management: based on the two-tier model described above
